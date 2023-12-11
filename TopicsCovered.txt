@@ -1,6 +1,0 @@
-Topics to be covered-
-1.DES
-2.AES
-3.RSA
-4.SHA-3(hashing)
-5.Zero knowledge proof of knowledge
